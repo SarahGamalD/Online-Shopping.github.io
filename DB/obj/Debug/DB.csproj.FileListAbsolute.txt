@@ -1,0 +1,20 @@
+D:\iti\asp\project\shopingPro\DB\obj\Debug\DB.csprojResolveAssemblyReference.cache
+D:\iti\asp\project\shopingPro\DB\obj\Debug\DB.csproj.CoreCompileInputs.cache
+D:\iti\asp\project\shopingPro - Copy\DB\bin\DB.dll.config
+D:\iti\asp\project\shopingPro - Copy\DB\bin\DB.dll
+D:\iti\asp\project\shopingPro - Copy\DB\bin\DB.pdb
+D:\iti\asp\project\shopingPro - Copy\DB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\iti\asp\project\shopingPro - Copy\DB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\iti\asp\project\shopingPro - Copy\DB\obj\Debug\DB.csprojResolveAssemblyReference.cache
+D:\iti\asp\project\shopingPro - Copy\DB\obj\Debug\DB.csproj.CoreCompileInputs.cache
+D:\iti\asp\project\shopingPro - Copy\DB\obj\Debug\DB.dll
+D:\iti\asp\project\shopingPro - Copy\DB\obj\Debug\DB.pdb
+D:\iti\asp\project shoping\shopingProLatest\DB\bin\DB.dll.config
+D:\iti\asp\project shoping\shopingProLatest\DB\bin\DB.dll
+D:\iti\asp\project shoping\shopingProLatest\DB\bin\DB.pdb
+D:\iti\asp\project shoping\shopingProLatest\DB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\iti\asp\project shoping\shopingProLatest\DB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\iti\asp\project shoping\shopingProLatest\DB\obj\Debug\DB.csprojResolveAssemblyReference.cache
+D:\iti\asp\project shoping\shopingProLatest\DB\obj\Debug\DB.csproj.CoreCompileInputs.cache
+D:\iti\asp\project shoping\shopingProLatest\DB\obj\Debug\DB.dll
+D:\iti\asp\project shoping\shopingProLatest\DB\obj\Debug\DB.pdb
